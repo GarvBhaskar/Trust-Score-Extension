@@ -24,7 +24,7 @@ The **Trust Score Extension** helps you shop smarter on **Amazon** by automatica
 1. Open **Chrome** (or any Chromium-based browser).
 2. Go to `chrome://extensions/`.
 3. Enable **Developer Mode** (top-right).
-4. Click **Load unpacked** and select the extracted folder.
+4. Click **Load unpacked** and select the "extension" folder.
 5. Done! 🎉 The extension will now run automatically on Amazon product pages.
 
 ## 🛠️ How to Use
