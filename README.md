@@ -16,9 +16,12 @@ It detects signs of **counterfeit products, fake reviews, misleading description
 | **Return Feedback Analysis** | Uses DistilBERT to classify customer complaints (e.g., fake, wrong item, poor quality) |
 | **Lightweight & Fast** | Works seamlessly while browsing |
 | **Privacy Friendly** | Sends only essential product data to the AI API |
+---
+
+## Architecture
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1f20e871-40ab-4fb4-94c4-87746493b2c1" alt="Screenshot 1" width="400"/>
+  <img src="https://github.com/GarvBhaskar/Trust-Score-Extension/blob/main/Architecture%20TSE.png" alt="Screenshot 1" width="900"/>
 </p>
 
 ---
@@ -68,6 +71,10 @@ Done — the extension runs automatically on Amazon product pages!
 | **95%** | Reliable listing |
 | **60%** | Some risks detected |
 | **30%** | High chance of counterfeit or misleading info |
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1f20e871-40ab-4fb4-94c4-87746493b2c1" alt="Screenshot 1" width="400"/>
+</p>
 
 ---
 
